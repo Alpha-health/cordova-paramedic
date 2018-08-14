@@ -1,3 +1,6 @@
+# If the unit test fails
+First check so that the phone and computer are connected to the same network. The local server will receive the messages from the device. If it times out, it normally means the phone is not able to connect to the server on the computer.
+
 # cordova-paramedic
 
 > Paramedic • _noun_ provides advanced levels of care at the point of illness or injury, including out of hospital treatment, and diagnostic services
